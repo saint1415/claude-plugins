@@ -460,6 +460,7 @@ This project is licensed under the MIT License - see individual plugin directori
 
 | Version | Date | Changes |
 |---------|------|---------|
+| 2.2.0 | 2026-02-04 | Reviewed all 42 plugins (200 skills) for accuracy - all validated |
 | 2.1.0 | 2026-02-04 | Added orchestration-plugin with Builder/Validator pattern, Windows hooks |
 | 2.0.0 | 2026-02-02 | Added 11 plugins from skills collection - now 39 plugins with 189 skills |
 | 1.1.0 | 2026-02-02 | Expanded to 28 plugins with 112 skills, Windows compatibility fixes |
