@@ -1,0 +1,7 @@
+{
+  "name": "weather",
+  "description": "Weather information - current conditions, forecasts, alerts",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["weather", "forecast", "temperature", "climate"]
+}

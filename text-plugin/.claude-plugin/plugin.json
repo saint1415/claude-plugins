@@ -1,0 +1,7 @@
+{
+  "name": "text",
+  "description": "Text manipulation tools - case conversion, word count, lorem ipsum, slug generation",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["text", "string", "case", "lorem", "slug"]
+}

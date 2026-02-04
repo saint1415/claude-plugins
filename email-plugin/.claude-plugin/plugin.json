@@ -1,0 +1,7 @@
+{
+  "name": "email",
+  "description": "Email security tools - SPF, DKIM, DMARC validation, header analysis, blacklist checks",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["email", "spf", "dkim", "dmarc", "security"]
+}

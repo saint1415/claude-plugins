@@ -1,0 +1,7 @@
+{
+  "name": "tf",
+  "description": "Terraform infrastructure as code tools - plan preview, validation, cost estimation, and drift detection",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["terraform", "iac", "infrastructure", "cloud", "devops"]
+}

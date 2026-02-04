@@ -1,0 +1,7 @@
+{
+  "name": "calc",
+  "description": "Calculator and conversion tools - units, networking (subnets), finance, dates",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["calculator", "conversion", "subnet", "finance", "units"]
+}

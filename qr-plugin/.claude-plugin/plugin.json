@@ -1,0 +1,7 @@
+{
+  "name": "qr",
+  "description": "QR code tools - generate and decode QR codes for URLs, WiFi, vCards",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["qr", "qrcode", "barcode", "wifi", "vcard"]
+}

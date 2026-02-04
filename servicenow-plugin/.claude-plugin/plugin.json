@@ -1,0 +1,9 @@
+{
+  "name": "snow",
+  "description": "ServiceNow IT Service Management integration for querying, creating, and updating tickets",
+  "version": "1.0.0",
+  "author": {
+    "name": "crissantos"
+  },
+  "keywords": ["servicenow", "itsm", "tickets", "incidents", "helpdesk"]
+}

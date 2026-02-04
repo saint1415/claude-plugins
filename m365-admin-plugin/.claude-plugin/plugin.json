@@ -1,0 +1,9 @@
+{
+  "name": "m365",
+  "description": "Microsoft 365 and Azure AD administration tools for user management, license queries, and security monitoring",
+  "version": "1.0.0",
+  "author": {
+    "name": "crissantos"
+  },
+  "keywords": ["microsoft", "office365", "azure", "entra", "admin", "identity"]
+}

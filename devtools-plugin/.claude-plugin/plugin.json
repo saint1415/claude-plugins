@@ -1,0 +1,8 @@
+{
+  "name": "devtools",
+  "description": "Developer tools - MCP builder, skill creator, templates, webapp testing",
+  "version": "1.0.0",
+  "author": {"name": "Alireza Rezvani (original), crissantos (packaged)"},
+  "license": "MIT",
+  "keywords": ["developer", "tools", "mcp", "skill", "testing"]
+}

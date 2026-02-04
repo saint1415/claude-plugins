@@ -1,0 +1,8 @@
+{
+  "name": "document",
+  "description": "Document processing skills - PDF, DOCX, PPTX, XLSX manipulation and creation",
+  "version": "1.0.0",
+  "author": {"name": "Alireza Rezvani (original), crissantos (packaged)"},
+  "license": "Proprietary",
+  "keywords": ["document", "pdf", "docx", "pptx", "xlsx", "office"]
+}

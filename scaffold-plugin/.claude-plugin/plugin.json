@@ -1,0 +1,7 @@
+{
+  "name": "scaffold",
+  "description": "Project scaffolding - create new projects from templates (React, Python, Node, Go)",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["scaffold", "template", "project", "boilerplate", "init"]
+}

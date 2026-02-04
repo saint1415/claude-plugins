@@ -1,0 +1,8 @@
+{
+  "name": "pm",
+  "description": "Project management skills for Atlassian users - senior PM, scrum master, Jira expert, Confluence expert, Atlassian admin, templates",
+  "version": "1.0.0",
+  "author": {"name": "Alireza Rezvani (original), crissantos (packaged)"},
+  "license": "MIT",
+  "keywords": ["project-management", "jira", "confluence", "atlassian", "scrum", "agile"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "time",
+  "description": "Time and timezone utilities - conversions, scheduling, countdown timers, cron expressions",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["time", "timezone", "cron", "schedule", "date"]
+}

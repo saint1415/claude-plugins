@@ -1,0 +1,7 @@
+{
+  "name": "color",
+  "description": "Color tools - format conversion, palette generation, contrast checking, gradients",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["color", "hex", "rgb", "hsl", "palette", "contrast"]
+}

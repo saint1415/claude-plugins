@@ -1,0 +1,7 @@
+{
+  "name": "logs",
+  "description": "Log file analysis tools - parse, search, aggregate, and visualize log data",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["logs", "analysis", "parsing", "monitoring"]
+}

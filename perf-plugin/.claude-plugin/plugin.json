@@ -1,0 +1,7 @@
+{
+  "name": "perf",
+  "description": "Performance tools - benchmarking, profiling, memory analysis, web performance",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["performance", "benchmark", "profile", "memory", "lighthouse"]
+}

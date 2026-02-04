@@ -1,0 +1,10 @@
+{
+  "name": "osint",
+  "description": "OSINT and security reconnaissance tools for domain, IP, email lookups and security header analysis",
+  "version": "1.0.0",
+  "author": {
+    "name": "crissantos"
+  },
+  "homepage": "https://github.com/crissantos/claude-osint-plugin",
+  "keywords": ["osint", "security", "reconnaissance", "shodan", "virustotal"]
+}

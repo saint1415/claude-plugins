@@ -1,0 +1,7 @@
+{
+  "name": "file",
+  "description": "File utilities - hashing, comparison, duplicate finding, size analysis",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["file", "hash", "diff", "duplicate", "size"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ssl",
+  "description": "SSL/TLS certificate tools - check certificates, expiration dates, chain validation, and CSR generation",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["ssl", "tls", "certificate", "https", "security"]
+}

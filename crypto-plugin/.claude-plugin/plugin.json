@@ -1,0 +1,7 @@
+{
+  "name": "crypto",
+  "description": "Cryptographic utilities - hashing, encoding/decoding, password generation, and JWT handling",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["hash", "encode", "decode", "password", "jwt", "base64"]
+}

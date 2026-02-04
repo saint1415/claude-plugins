@@ -1,0 +1,7 @@
+{
+  "name": "fin",
+  "description": "Financial tools - stock quotes, crypto prices, currency conversion",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["finance", "stock", "crypto", "currency", "money"]
+}

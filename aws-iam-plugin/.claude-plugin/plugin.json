@@ -1,0 +1,9 @@
+{
+  "name": "aws",
+  "description": "AWS IAM security analyzer for auditing policies, roles, and permissions",
+  "version": "1.0.0",
+  "author": {
+    "name": "crissantos"
+  },
+  "keywords": ["aws", "iam", "security", "audit", "cloud"]
+}

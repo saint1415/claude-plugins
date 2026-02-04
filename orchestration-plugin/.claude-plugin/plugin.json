@@ -1,0 +1,7 @@
+{
+  "name": "orchestration",
+  "description": "Multi-agent orchestration with Builder/Validator pattern, self-validating agents, and team task management",
+  "version": "1.0.0",
+  "author": {"name": "crissantos", "inspired_by": "IndyDevDan/disler"},
+  "keywords": ["orchestration", "multi-agent", "builder", "validator", "tasks", "teams"]
+}

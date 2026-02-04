@@ -1,0 +1,8 @@
+{
+  "name": "creative",
+  "description": "Creative and design skills - algorithmic art, artifacts builder, brand guidelines, canvas design, theme factory",
+  "version": "1.0.0",
+  "author": {"name": "Alireza Rezvani (original), crissantos (packaged)"},
+  "license": "MIT",
+  "keywords": ["creative", "design", "art", "brand", "theme"]
+}

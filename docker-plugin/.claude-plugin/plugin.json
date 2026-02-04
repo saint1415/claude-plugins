@@ -1,0 +1,7 @@
+{
+  "name": "docker",
+  "description": "Docker container management, image scanning, and compose utilities",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["docker", "containers", "devops", "compose"]
+}

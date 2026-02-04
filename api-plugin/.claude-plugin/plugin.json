@@ -1,0 +1,7 @@
+{
+  "name": "api",
+  "description": "API testing and development tools - test endpoints, generate mock data, and create documentation",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["api", "rest", "http", "testing", "curl"]
+}

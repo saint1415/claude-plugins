@@ -1,0 +1,7 @@
+{
+  "name": "net",
+  "description": "Network diagnostic tools - ping, port scanning, DNS lookups, and traceroute",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["network", "ping", "dns", "ports", "traceroute"]
+}

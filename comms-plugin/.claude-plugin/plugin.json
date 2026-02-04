@@ -1,0 +1,8 @@
+{
+  "name": "comms",
+  "description": "Communication tools - internal communications, Slack GIF creator",
+  "version": "1.0.0",
+  "author": {"name": "Alireza Rezvani (original), crissantos (packaged)"},
+  "license": "MIT",
+  "keywords": ["communication", "slack", "internal", "gif"]
+}

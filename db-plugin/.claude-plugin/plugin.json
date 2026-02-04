@@ -1,0 +1,7 @@
+{
+  "name": "db",
+  "description": "Database tools - run queries, explore schemas, backup, and migration helpers",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["database", "sql", "mysql", "postgresql", "sqlite"]
+}

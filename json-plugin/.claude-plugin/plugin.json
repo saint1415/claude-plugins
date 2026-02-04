@@ -1,0 +1,7 @@
+{
+  "name": "json",
+  "description": "JSON utilities - formatting, validation, diffing, and conversion to/from other formats",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["json", "yaml", "xml", "csv", "format"]
+}

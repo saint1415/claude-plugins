@@ -1,0 +1,7 @@
+{
+  "name": "comply",
+  "description": "Security compliance checking - PCI-DSS, HIPAA, GDPR, SOC2 requirements",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["compliance", "security", "pci", "hipaa", "gdpr", "soc2"]
+}

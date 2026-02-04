@@ -1,0 +1,7 @@
+{
+  "name": "git",
+  "description": "Advanced Git operations including PR reviews, changelog generation, repository statistics, and branch management",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["git", "github", "version-control", "pr", "changelog"]
+}

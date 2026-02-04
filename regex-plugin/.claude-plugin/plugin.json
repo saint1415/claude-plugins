@@ -1,0 +1,7 @@
+{
+  "name": "regex",
+  "description": "Regular expression tools - build, test, explain, and access common patterns",
+  "version": "1.0.0",
+  "author": {"name": "crissantos"},
+  "keywords": ["regex", "regexp", "pattern", "matching"]
+}
