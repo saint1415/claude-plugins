@@ -1,0 +1,9 @@
+{
+  "name": "workflow",
+  "description": "Development workflow automation inspired by Boris Cherny's Claude Code patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "crissantos"
+  },
+  "keywords": ["workflow", "git", "pr", "commit", "automation"]
+}

@@ -1,11 +1,13 @@
 # Claude Code Custom Plugins
 
-[![Plugins](https://img.shields.io/badge/Plugins-40-blue)]()
-[![Skills](https://img.shields.io/badge/Skills-191-green)]()
+[![Plugins](https://img.shields.io/badge/Plugins-42-blue)]()
+[![Skills](https://img.shields.io/badge/Skills-200-green)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows%2011-lightgrey)]()
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-1.0.33%2B-purple)]()
 
 A comprehensive collection of custom plugins for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), Anthropic's official CLI for Claude. These plugins extend Claude Code with specialized skills for security, DevOps, engineering, business strategy, and more.
+
+**Plus community plugins** from [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) (270+ plugins, 1,537 skills) and [trailofbits/skills](https://github.com/trailofbits/skills) (security research).
 
 ## Table of Contents
 
@@ -35,8 +37,9 @@ A comprehensive collection of custom plugins for [Claude Code](https://docs.anth
 
 ## Features
 
-- **40 Specialized Plugins** covering security, DevOps, engineering, business, and productivity
-- **191 Skills** (slash commands) for quick access to expert knowledge and automation
+- **42 Custom Plugins** covering security, DevOps, engineering, business, and productivity
+- **200 Skills** (slash commands) for quick access to expert knowledge and automation
+- **Community Plugins** from major collections (1,500+ additional skills available)
 - **Multi-Agent Orchestration** with Builder/Validator pattern for complex tasks
 - **Windows 11 Compatible** with PowerShell hooks and scripts
 - **Modular Architecture** - load only the plugins you need
@@ -91,15 +94,19 @@ claude @plugins
 |--------|--------|-------------|
 | [servicenow-plugin](./servicenow-plugin/) | `query`, `create`, `update`, `my-tickets` | ServiceNow ticket management |
 | [m365-admin-plugin](./m365-admin-plugin/) | `user`, `audit`, `risky-users`, `licenses` | Microsoft 365 administration |
+| [youtrack-plugin](./youtrack-plugin/) | `issues`, `create`, `update`, `my-issues`, `agile` | JetBrains YouTrack integration |
 | [git-plugin](./git-plugin/) | `pr-review`, `changelog`, `stats`, `branch-cleanup` | Git workflow automation |
+| [workflow-plugin](./workflow-plugin/) | `commit-push-pr`, `plan-review`, `code-simplify`, `verify-app` | Development workflow automation |
 | [pm-plugin](./pm-plugin/) | 6 skills | Project management & Atlassian tools |
 | [comms-plugin](./comms-plugin/) | `internal-comms`, `slack-gif-creator` | Communication tools |
 
 **Example Usage:**
 ```
+/youtrack:my-issues                # List your assigned issues
+/youtrack:create --project MyProj --summary "New feature"
+/workflow:commit-push-pr           # Ship code in one command
+/workflow:plan-review              # Review implementation plan
 /pm-skills:jira-expert             # Jira best practices
-/pm-skills:confluence-expert       # Confluence documentation
-/pm-skills:scrum-master            # Scrum facilitation
 ```
 
 ### Cloud & DevOps

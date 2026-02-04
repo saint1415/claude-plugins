@@ -1,0 +1,9 @@
+{
+  "name": "youtrack",
+  "description": "JetBrains YouTrack issue tracking and project management",
+  "version": "1.0.0",
+  "author": {
+    "name": "crissantos"
+  },
+  "keywords": ["youtrack", "jetbrains", "issues", "agile", "project-management"]
+}

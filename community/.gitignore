@@ -1,0 +1,5 @@
+# Community plugins are cloned from external repos
+# They have their own git histories, so we don't track them
+*
+!.gitignore
+!README.md
